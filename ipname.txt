@@ -1,0 +1,2 @@
+Google DNS
+Cloudflare DNS
