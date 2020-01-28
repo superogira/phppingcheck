@@ -1,2 +1,8 @@
 Google DNS
 Cloudflare DNS
+Quad9 DNS
+OpenDNS
+CleanBrowsing DNS
+Verisign DNS
+Test time out
+Test Unreachable
