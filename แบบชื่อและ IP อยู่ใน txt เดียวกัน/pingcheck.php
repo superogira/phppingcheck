@@ -31,9 +31,6 @@ foreach($list as $val)
     $count++;
 }
 
-$iplist = file('./iplist.txt', FILE_IGNORE_NEW_LINES);
-$ipname = file('./ipname.txt', FILE_IGNORE_NEW_LINES);
-
 date_default_timezone_set("Asia/Bangkok");
 function DateThai($strDate)
 {
