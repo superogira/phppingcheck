@@ -22,3 +22,4 @@ Ping IP check by php no database use only txt file.
 เพราะเป็นครั้งแรกเลยที่มาศึกษาเขียน PHP ขึ้นมาใช้งานเอง
 
 ![alt text](https://raw.githubusercontent.com/superogira/phppingcheck/master/phppingcheck.jpg)
+![alt text](https://github.com/superogira/phppingcheck/blob/master/ip_&_name_txt.jpg)
