@@ -12,7 +12,7 @@
 <body onload="zoom()">
 
 <?php
-$list = file('./iplist2.txt', FILE_IGNORE_NEW_LINES);
+$list = file('./iplist.txt', FILE_IGNORE_NEW_LINES);
 
 
 $ipname=array();
