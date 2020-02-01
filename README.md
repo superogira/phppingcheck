@@ -21,4 +21,4 @@ Ping IP check by php no database use only txt file.
 เผื่อปรับปรุงให้มันดีขึ้น
 เพราะเป็นครั้งแรกเลยที่มาศึกษาเขียน PHP ขึ้นมาใช้งานเอง
 
-![alt text](https://raw.githubusercontent.com/superogira/phppingcheck/master/phppingcheck.jpg)
+![alt text](https://github.com/superogira/phppingcheck/blob/master/%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%81%E0%B8%A5%E0%B8%B0%20IP%20%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B9%83%E0%B8%99%20txt%20%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%99%20(Name%20&%20IP%20same%20txt)/iplist_same_txt.jpg?raw=true)
